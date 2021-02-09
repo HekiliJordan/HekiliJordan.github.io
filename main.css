@@ -7,7 +7,19 @@ p {
 
 img{
     padding: 10px;
-    margins: 5px;
+    margins: 5px;  
+}
 
-    
+span {
+    font-family: 'Merriweather','Baskerville Old Face';
+    font-size:20px;
+    line-height:normal;
+    font-color: black;
+}
+
+ul {
+    font-family: 'Merriweather','Baskerville Old Face';
+    font-size:20px;
+    line-height:normal;
+    font-color: black;
 }
