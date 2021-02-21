@@ -6,6 +6,14 @@ p {
     padding: 12px;
 }
 
+h1 {
+    font-family: 'Merriweather','Baskerville Old Face';
+    font-size:22px;
+    line-height:normal;
+    font-color: black;
+    padding: 12px;
+}
+
 img{
     padding: 10px;
     margins: 5px;  
