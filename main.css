@@ -24,7 +24,7 @@ span {
     font-size:20px;
     line-height:normal;
     font-color: black;
-     padding: 12px;
+    padding: 12px;
 }
 
 ul {
@@ -32,7 +32,15 @@ ul {
     font-size:20px;
     line-height:normal;
     font-color: black;
-     padding: 12px;
+    padding: 12px;
+}
+
+li {
+    font-family: 'Merriweather','Baskerville Old Face';
+    font-size:20px;
+    line-height:normal;
+    font-color: black;
+    padding: 12px;
 }
 
 /* Add a black background color to the top navigation */
